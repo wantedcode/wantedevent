@@ -13,5 +13,10 @@ namespace WantedEvent
         {
             InitializeComponent();
         }
+
+        private void ButtonDelete_OnClicked(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

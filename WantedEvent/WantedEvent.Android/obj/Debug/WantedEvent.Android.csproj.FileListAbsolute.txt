@@ -36,3 +36,15 @@ C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\Wan
 C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\values\styles.xml
 C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\R.cs.flag
 C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\uploadflags.txt
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

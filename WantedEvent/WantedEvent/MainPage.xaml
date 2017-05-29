@@ -5,33 +5,35 @@
              xmlns:local="clr-namespace:WantedEvent"
              x:Class="WantedEvent.MainPage">
     <ContentPage.Content>
-        <TableView>
-            <TableView.Root>
-                <TableSection Title="Podstawowe informacje" >
-                    <ViewCell>
-                        <ContentView HeightRequest="200">
-                            <StackLayout Orientation="Horizontal" Margin="15,10,10,10">
-                                <Picker HorizontalOptions="FillAndExpand">
-                                    <Picker.Items>
-                                        <x:String>Wesele</x:String>
-                                        <x:String>Impreza integracyjna</x:String>
-                                        <x:String>Impreza rodzinna</x:String>
-                                        <x:String>Stypa</x:String>
-                                        <x:String>Urodziny</x:String>
-                                    </Picker.Items>
-                                </Picker>
-                            </StackLayout>
-                        </ContentView>
-                    </ViewCell>
-                    <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
-                    <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
-                </TableSection>
-            </TableView.Root>
-        </TableView>
-        
         <StackLayout Orientation="Vertical">
-            <Button Text="Usuń"></Button>
-            <Button Text="Dalej"></Button>
+            <TableView>
+                <TableView.Root>
+                    <TableSection Title="Podstawowe informacje">
+                        <ViewCell>
+                            <ContentView HeightRequest="200">
+                                <StackLayout Orientation="Horizontal" Margin="15,10,10,10">
+                                    <Picker HorizontalOptions="FillAndExpand">
+                                        <Picker.Items>
+                                            <x:String>Wesele</x:String>
+                                            <x:String>Impreza integracyjna</x:String>
+                                            <x:String>Impreza rodzinna</x:String>
+                                            <x:String>Stypa</x:String>
+                                            <x:String>Urodziny</x:String>
+                                        </Picker.Items>
+                                    </Picker>
+                                </StackLayout>
+                            </ContentView>
+                        </ViewCell>
+                        <EntryCell x:Name="CellStartHour" Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
+                        <EntryCell x:Name="CellEndHour" Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
+                    </TableSection>
+                </TableView.Root>
+            </TableView>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="End" Margin="15,10,10,10">
+                <Button x:Name="ButtonDelete" Text="Usuń" Clicked="ButtonDelete_OnClicked" />
+                <Button Text="Dalej"  />
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
