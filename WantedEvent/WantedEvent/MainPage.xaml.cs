@@ -44,5 +44,10 @@ namespace WantedEvent
 
             return calculatedTime.Subtract(startTime);           
         }
+
+        private void ButtonDelete_OnClicked(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

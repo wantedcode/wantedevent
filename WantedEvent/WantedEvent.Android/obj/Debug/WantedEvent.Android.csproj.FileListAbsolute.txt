@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.pdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.apk
@@ -72,3 +73,55 @@ D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\a
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\WantedEvent.Android.dll.mdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.dll.mdb
+=======
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.apk
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android-Signed.apk
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\FormsViewGroup.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\FormsViewGroup.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\WantedEvent.Android.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\WantedEvent.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\WantedEvent.Android.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\bin\WantedEvent.Android.apk
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\drawable\icon.png
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\layout\tabbar.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\layout\toolbar.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\res\values\styles.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\R.cs.flag
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\uploadflags.txt
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\bin\Debug\WantedEvent.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+>>>>>>> b8ee00236a326c2341d2975553ebf29a3876beff

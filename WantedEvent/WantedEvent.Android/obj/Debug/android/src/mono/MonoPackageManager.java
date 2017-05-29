@@ -113,6 +113,7 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"WantedEvent.dll",
+<<<<<<< HEAD
 		"System.Runtime.dll",
 		"System.Collections.dll",
 		"System.Diagnostics.Debug.dll",
@@ -134,6 +135,8 @@ class MonoPackageManager_Resources {
 		"System.Runtime.InteropServices.dll",
 		"System.Resources.ResourceManager.dll",
 		"System.Diagnostics.Tools.dll",
+=======
+>>>>>>> b8ee00236a326c2341d2975553ebf29a3876beff
 	};
 	public static final String[] Dependencies = new String[]{
 	};

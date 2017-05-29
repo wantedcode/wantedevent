@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\bin\Debug\WantedEvent.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\bin\Debug\WantedEvent.pdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Core.dll
@@ -15,3 +16,20 @@ D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.pdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.dll.mdb
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent\bin\Debug\WantedEvent.dll.mdb
+=======
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\WantedEvent.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\WantedEvent.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Core.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Core.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.MainPage.xaml.g.cs
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.App.xaml.g.cs
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent\obj\Debug\WantedEvent.pdb
+>>>>>>> b8ee00236a326c2341d2975553ebf29a3876beff

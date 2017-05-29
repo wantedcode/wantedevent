@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.Android.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\FormsViewGroup.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -45,3 +46,53 @@ D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\a
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 D:\Staz\Projekty\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+=======
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\FormsViewGroup.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Java.Interop.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Mono.Android.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Core.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Xml.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\WantedEvent.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Runtime.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Collections.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.ObjectModel.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Globalization.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.ComponentModel.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Reflection.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.IO.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Threading.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Linq.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Net.Http.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Text.RegularExpressions.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\Mono.Security.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedEvent\WantedEvent\WantedEvent.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+>>>>>>> b8ee00236a326c2341d2975553ebf29a3876beff
