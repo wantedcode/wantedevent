@@ -9,7 +9,7 @@
 	        <TableSection Title="Podstawowe informacje">
 
                 <ViewCell>
-                <ContentView>
+                <ContentView HeightRequest="125">
                     <StackLayout Orientation="Horizontal" Margin="15,10,10,10">
                         <Picker HorizontalOptions="FillAndExpand">
                             <Picker.Items>
