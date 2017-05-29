@@ -28,5 +28,10 @@
                 </TableSection>
             </TableView.Root>
         </TableView>
+        
+        <StackLayout Orientation="Vertical">
+            <Button Text="Usuń"></Button>
+            <Button Text="Dalej"></Button>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
