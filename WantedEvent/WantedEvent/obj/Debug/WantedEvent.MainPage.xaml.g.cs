@@ -11,8 +11,7 @@
 namespace WantedEvent {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Programowanie\\Visual Studio Projects\\XamarinForms\\WantedEvent\\WantedEvent\\Want" +
-        "edEvent\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Staz\\Projekty\\WantedEvent\\WantedEvent\\WantedEvent\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
