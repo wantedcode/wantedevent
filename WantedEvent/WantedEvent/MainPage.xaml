@@ -1,11 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WantedEvent"
              x:Class="WantedEvent.MainPage">
-
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+    <ContentPage.Content>
+        <TableView>
+            <TableView.Root>
+                <TableSection Title="Podstawowe informacje" >
+                    <ViewCell>
+                        <ContentView HeightRequest="200">
+                            <StackLayout Orientation="Horizontal" Margin="15,10,10,10">
+                                <Picker HorizontalOptions="FillAndExpand">
+                                    <Picker.Items>
+                                        <x:String>Wesele</x:String>
+                                        <x:String>Impreza integracyjna</x:String>
+                                        <x:String>Impreza rodzinna</x:String>
+                                        <x:String>Stypa</x:String>
+                                        <x:String>Urodziny</x:String>
+                                    </Picker.Items>
+                                </Picker>
+                            </StackLayout>
+                        </ContentView>
+                    </ViewCell>
+                    <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
+                    <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
+                </TableSection>
+            </TableView.Root>
+        </TableView>
+    </ContentPage.Content>
 </ContentPage>
