@@ -41,7 +41,7 @@ namespace WantedEvent
         public TimeSpan CalculateTime(TimeSpan startTime, TimeSpan endTime)
         {
             TimeSpan calculatedTime = endTime;
-
+            
             return calculatedTime.Subtract(startTime);           
         }
 
