@@ -24,7 +24,7 @@
                         </ContentView>
                     </ViewCell>
                     <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
-                    <EntryCell Label="Godzina rozpoczęcia" Text="16:00" HorizontalTextAlignment="End" />
+                    <EntryCell Label="Godzina rozpoczęcia" x:Name="time" Text="16:00" HorizontalTextAlignment="End" />
                 </TableSection>
             </TableView.Root>
         </TableView>
